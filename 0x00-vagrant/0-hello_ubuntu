@@ -1,0 +1,9 @@
+The uname command, when run without any options, prints the system information of the operating system. Specifically, it displays the system name, node name (hostname), kernel release, kernel version, machine hardware name, and processor architecture.
+When the Linux command is run without any options, it prints the following system information:
+
+- System Name
+- Node Name (Hostname)
+- Kernel Release
+- Kernel Version
+- Machine Hardware Name
+- Processor Architecture
